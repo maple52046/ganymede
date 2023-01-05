@@ -1,6 +1,6 @@
-# ganymede
+# A Flutter project to demo how to develop Objective-C plugin with Pigeon
 
-A new Flutter project.
+- [My blog post](https://maple52046.github.io/posts/create-objc-plugin-for-flutter-with-pigeon/)
 
 ## Getting Started
 
